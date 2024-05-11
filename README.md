@@ -4,4 +4,44 @@ The goal of this project is to create an affordable humanoid robot that will be 
 
 Design Process: For the lower body, there were multiple iterations of the lower body connection pieces. In the beginning, the parts were made too thin. This would cause snapping when the robot is in use. To prevent this, the part was made thicker. This was changed with the failure mode in mind. Due to the possible snapping or breakage, this could cause injury to the user. This can be caused by the part being roughly used or even accidents. The reccomended action to prevent this would be a thicker infill. Fillets were also added as a saftey precaution. Sharp edges can add injury if the user is not careful.
 
-3-D MODELS:
+# 3-D MODELS:
+The 3D models are separted between two parts being the upper body and lower body motor sections in the "Arm Parts" and "LEG Parts" 
+folders with the most recent files made for project.Going into the STL within GitHub also provides a visual of what the STL file 
+looks like when selected as an added feature for their vizualization.
+Arm Parts:
+
+Arm.STL - this is the link which connects the shoulder roll directional motor to the hand motor. 
+
+Hand.STL - is the model for hand appendage of the robot which is also connected by the last roll 
+directional motor of the arm's hand movement. 
+
+Shoulder.STL - as this connection is responsible for connecting the arm of the robot to the torso, for this piece the 
+motor attached to the torso is facing in the pitch direction axis. 
+The placement of each of these motors are also visualized in the "Mini-HART" manual as well for the robots full set up.
+
+In the "LEG PARTS" folder it consists of eight files with four of them starting with the labels "LL" and "UL" which stand for 
+the "Upper leg" and "lower leg" of the robot. Along with the titles "Back" and "Front" for the placement 
+of the part as "Back" refers to the inner placement of the robots leg, and "Front" for the outter placement of the part. 
+    
+LEG PARTS Folder:
+
+LL Back.STL -
+    
+LL Front.STL - 
+    
+Left Foot.STL - 
+   
+Right Foot.STL - 
+    
+Roll.STL -
+    
+UL BACK.STL - 
+    
+UL Front.STL - 
+    
+Yaw.STL - 
+
+# Arduino Code
+
+
+# Blender Simulation
