@@ -26,6 +26,7 @@ of the part as "Back" refers to the inner placement of the robots leg, and "Fron
 LEG PARTS Folder:
 
 LL Back.STL -
+This lower leg back part is responsible for the link between the knee 
     
 LL Front.STL - 
     
