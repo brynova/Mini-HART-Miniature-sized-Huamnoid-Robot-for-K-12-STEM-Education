@@ -7,7 +7,7 @@ Design Process: For the lower body, there were multiple iterations of the lower 
 The 3D models are separted between two parts being the upper body and lower body motor sections in the "Arm Parts" and "LEG Parts" 
 folders with the most recent files made for project.Going into the STL within GitHub also provides a visual of what the STL file 
 looks like when selected as an added feature for their vizualization.
-**Arm Parts:**
+***_Arm Parts Folder:_***
 
 **Arm.STL** - this is the link which connects the shoulder roll directional motor to the hand motor. 
 
@@ -18,7 +18,7 @@ directional motor of the arm's hand movement.
 motor attached to the torso is facing in the pitch direction axis. 
 The placement of each of these motors are also visualized in the "Mini-HART" manual as well for the robots full set up.
 
-**LEG PARTS Folder:**
+***LEG PARTS Folder:***
 In the "LEG PARTS" folder it consists of eight files with four of them starting with the labels "LL" and "UL" which stand for 
 the "Upper leg" and "lower leg" of the robot. Along with the titles "Back" and "Front" for the placement 
 of the part as "Back" refers to the inner placement of the robots leg, and "Front" for the outter placement of the part.
