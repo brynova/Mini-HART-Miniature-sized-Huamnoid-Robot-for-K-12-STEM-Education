@@ -8,7 +8,7 @@ The 3D models are separted between two parts being the upper body and lower body
 folders with the most recent files made for project.Going into the STL within GitHub also provides a visual of what the STL file 
 looks like when selected as an added feature for their vizualization.
 
-***_Arm Parts Folder:_***
+*** _Arm_Parts_Folder:_ ***
 
 **Arm.STL** - this is the link which connects the shoulder roll directional motor to the hand motor. 
 
