@@ -43,6 +43,22 @@ Yaw.STL -
 
 # Arduino Code
 
+Commander.ino -
+
+Do.a.split - 
+
+Kiwon_Squat_perfected - 
+
+LegRaise -
+
+Leg_Raise(Right) -
+
+Movement_Communication -
+
+StationarywalkV2 -
+
+XL-320move.ino - 
+
 
 # Blender Simulation
 
