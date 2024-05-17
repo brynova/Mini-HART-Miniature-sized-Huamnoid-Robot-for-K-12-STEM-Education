@@ -7,6 +7,7 @@ Design Process: For the lower body, there were multiple iterations of the lower 
 The 3D models are separted between two parts being the upper body and lower body motor sections in the "Arm Parts" and "LEG Parts" 
 folders with the most recent files made for project.Going into the STL within GitHub also provides a visual of what the STL file 
 looks like when selected as an added feature for their vizualization.
+
 ***_Arm Parts Folder:_***
 
 **Arm.STL** - this is the link which connects the shoulder roll directional motor to the hand motor. 
