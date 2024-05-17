@@ -22,43 +22,42 @@ In the "LEG PARTS" folder it consists of eight files with four of them starting 
 the "Upper leg" and "lower leg" of the robot. Along with the titles "Back" and "Front" for the placement 
 of the part as "Back" refers to the inner placement of the robots leg, and "Front" for the outter placement of the part. 
     
-LEG PARTS Folder:
+**LEG PARTS Folder:
 
-LL Back.STL -
+**LL Back.STL -
 This lower leg back part is responsible for the link between the knee 
     
-LL Front.STL - 
+**LL Front.STL - 
     
-Left Foot.STL - 
+**Left Foot.STL - 
    
-Right Foot.STL - 
+**Right Foot.STL - 
     
-Roll.STL -
+**Roll.STL -
     
-UL BACK.STL - 
+**UL BACK.STL - 
     
-UL Front.STL - 
+**UL Front.STL - 
     
-Yaw.STL - 
+**Yaw.STL - 
 
 # Arduino Code
 
-Commander.ino -
+**Commander.ino -
 
-Do.a.split - 
+**Do.a.split - 
 
-Kiwon_Squat_perfected - 
+**Kiwon_Squat_perfected - 
 
-LegRaise -
+**LegRaise -
 
-Leg_Raise(Right) -
+**Leg_Raise(Right) -
 
-Movement_Communication -
+**Movement_Communication -
 
-StationarywalkV2 -
+**StationarywalkV2 -
 
-XL-320move.ino - 
+**XL-320move.ino - 
 
 
 # Blender Simulation
-
