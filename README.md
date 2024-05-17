@@ -3,7 +3,7 @@ The goal of this project is to create an affordable humanoid robot that will be 
 
 Design Process: For the lower body, there were multiple iterations of the lower body connection pieces. In the beginning, the parts were made too thin. This would cause snapping when the robot is in use. To prevent this, the part was made thicker. This was changed with the failure mode in mind. Due to the possible snapping or breakage, this could cause injury to the user. This can be caused by the part being roughly used or even accidents. The reccomended action to prevent this would be a thicker infill. Fillets were also added as a saftey precaution. Sharp edges can add injury if the user is not careful.
 
-# 3-D MODELS:
+## 3-D MODELS:
 The 3D models are separted between two parts being the upper body and lower body motor sections in the "Arm Parts" and "LEG Parts" 
 folders with the most recent files made for project.Going into the STL within GitHub also provides a visual of what the STL file 
 looks like when selected as an added feature for their vizualization.
@@ -40,7 +40,7 @@ This lower leg back part is responsible for the link between the knee
     
 **Yaw.STL** - 
 
-# Arduino Code
+## Arduino Code
 
 **Commander.ino** -
 
@@ -59,4 +59,4 @@ This lower leg back part is responsible for the link between the knee
 **XL-320move.ino** - 
 
 
-# Blender Simulation
+## Blender Simulation
