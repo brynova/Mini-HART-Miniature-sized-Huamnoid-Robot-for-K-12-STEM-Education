@@ -1,4 +1,3 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
 # Mini-HART 
 The goal of this project is to create an affordable humanoid robot that will be used as an educational tool in the classroom. This humanoid can teach 9-12th grade students several aspects of STEM through its creation and use. These aspects consist of items such as 3-D modeling, design, motor control/mechanics, kinematics, programming, and other related STEM topics. This tool is to be provided to institutions in the form of a kit, which will consist of all necessary mechanical parts and 3-D printed part files. If the institution does not have access to a 3-D printer, the kit can also provide these 3-D printed parts. There will also be instructions to build and program the robot that can be understood/created by someone with limited to no prior knowledge.
 
@@ -62,3 +61,4 @@ XL-320move.ino -
 
 
 # Blender Simulation
+
